@@ -1,3 +1,17 @@
-*.vscode
-*.idea
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore JetBrains IDE settings
+.idea/
+
+# Ignore Python bytecode files
 *.pyc
+
+# Ignore __pycache__ directories
+__pycache__/
+
+# Ignore all log files
+*.log
+
+# Ignore any environment files
+.env
